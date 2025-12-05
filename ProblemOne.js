@@ -167,6 +167,20 @@ console.log(res)
 
 */
 
+//===============================
+/*
+problems 15
+Replace taxt
+
+const x = "js bangladesh, js bangladesh, js bangladesh, js bangladesh";
+const res = x.replaceAll("js bangladesh", "javascript india")
+console.log(res)
+
+
+
+*/
+
+
 
 
 
