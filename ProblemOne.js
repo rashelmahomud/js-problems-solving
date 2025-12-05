@@ -233,6 +233,22 @@ console.log(finalMax)
 console.log(finalMin)
 
 */
+//===========================
+/*
+problems 21
+
+const myArray = [1,2,5,2,2,0,5,68,5,5,2,5]
+
+const x = myArray.reduce((a,b) =>a+b )
+console.log(x)
+
+
+*/
+
+
+
+
+
 
 
 
