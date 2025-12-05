@@ -211,6 +211,19 @@ const res = x.repeat(2)
 console.log(res)
 */
 
+//=====================
+/*
+ problems 19
+ get last charecter
+
+const  x = 'mahomud'
+
+const res = x[x.length - 1]
+console.log(res)
+
+*/
+
+
 
 
 
