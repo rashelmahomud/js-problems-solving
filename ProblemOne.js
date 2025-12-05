@@ -115,5 +115,18 @@ console.log(res)
 let str = "hello";
 
 const tes = str.split('').reverse().join("")
-console.log(tes)*/
+console.log(tes)
+*/
+
+//==================================
+
+
+//problems 11
+//count string length
+
+const country = 'Bangladesh';
+console.log(country)
+
+
+
 
