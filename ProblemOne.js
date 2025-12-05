@@ -147,7 +147,6 @@ console.log(res)
 /*
 
 problems 13
-
 convert to Uppercase
 
 const country = 'Bangladesh';
@@ -155,6 +154,31 @@ console.log(country.toUpperCase())
 console.log(country.toLocaleLowerCase())
 
 */
+
+//===============================
+
+/*
+problems 14
+count voweles
+
+let countVowles = "apple";
+const res = countVowles.match(/[aeiou]/gi) || [].length
+console.log(res)
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
