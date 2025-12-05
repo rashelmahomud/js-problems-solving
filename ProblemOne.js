@@ -120,12 +120,31 @@ console.log(tes)
 
 //==================================
 
-
-//problems 11
-//count string length
+/*
+problems 11
+count string length
 
 const country = 'Bangladesh';
 console.log(country)
+*/
+
+//=============================
+
+
+//check palindrome
+
+const s = 'madam';  //true
+const r = 'sister'; //false
+
+const res = (s === s.split('').reverse().join(''))
+console.log(res)
+
+
+
+
+
+
+
 
 
 
