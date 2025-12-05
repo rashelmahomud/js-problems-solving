@@ -129,9 +129,9 @@ console.log(country)
 */
 
 //=============================
-
-
-//check palindrome
+/*
+problems 12
+check palindrome
 
 const s = 'madam';  //true
 const r = 'sister'; //false
@@ -139,9 +139,22 @@ const r = 'sister'; //false
 const res = (s === s.split('').reverse().join(''))
 console.log(res)
 
+*/
+
+//============================
 
 
+/*
 
+problems 13
+
+convert to Uppercase
+
+const country = 'Bangladesh';
+console.log(country.toUpperCase())
+console.log(country.toLocaleLowerCase())
+
+*/
 
 
 
