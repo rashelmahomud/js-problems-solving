@@ -199,6 +199,36 @@ const res = x.trim();
 console.log(res)
 
 */
+//============================
+
+/*
+problems 18
+repeat string...
+
+const x = 'Hi My Name is Rashel Mahomud. Im from Bangladesh at chittagong. I am web developer and web apps developer';
+
+const res = x.repeat(2)
+console.log(res)
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
