@@ -216,12 +216,30 @@ console.log(res)
  problems 19
  get last charecter
 
-const  x = 'mahomud'
-
-const res = x[x.length - 1]
-console.log(res)
+const x = 'towhida';
+const rex = x[x.length -1]
+console.log(rex)
 
 */
+
+//============================
+/*
+find max in array
+problems 20
+const myMax= [1,2,8,5,6,3]
+const finalMax = Math.max(...myMax) 
+const finalMin = Math.min(...myMax) 
+console.log(finalMax)
+console.log(finalMin)
+
+*/
+
+
+
+
+
+
+
 
 
 
