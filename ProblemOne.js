@@ -176,9 +176,22 @@ const x = "js bangladesh, js bangladesh, js bangladesh, js bangladesh";
 const res = x.replaceAll("js bangladesh", "javascript india")
 console.log(res)
 
+*/
 
+//=======================
+/*
+string starts with
+problems 16
+
+const x = 'javascript';
+const res = x.startsWith('java')
+console.log(res)
 
 */
+
+
+
+
 
 
 
