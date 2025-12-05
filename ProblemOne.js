@@ -189,6 +189,22 @@ console.log(res)
 
 */
 
+//=============================
+/*
+Remove space all
+problems 17
+
+const x = "JS ";
+const res = x.trim();
+console.log(res)
+
+*/
+
+
+
+
+
+
 
 
 
