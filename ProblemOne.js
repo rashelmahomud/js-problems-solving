@@ -284,10 +284,14 @@ console.log(arrayResult)
 
 */
 
-
-
-
-
+/*
+//problems 26
+///Check if item exists
+//Ans if number was true and if don't have false
+const item = [1,2,3];
+const itemResult = item.includes(2)
+console.log(itemResult)
+*/
 
 
 
