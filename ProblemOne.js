@@ -244,6 +244,59 @@ console.log(x)
 
 
 */
+///================================
+
+// problems 22
+
+/*
+
+finding all even number
+const myArrayCount  = [1,2,5,8,9,6,54,5,8,5];
+const x = myArrayCount.filter((x) => x % 2 ===0 )
+console.log(x)
+
+*/
+
+//problems 23
+/*finding odd Numbers
+const myOdds = [1,2,5,5,8,5,6,2,5,7,5]
+const x= myOdds.filter((x) => x % 2 === 1)
+console.log(x)
+*/
+
+/*
+problems 24
+const numbers = [1,2,5,8,6,56,2]
+const x = Math.min(...numbers)
+console.log(x)
+
+const y = Math.max(...numbers);
+console.log(y)
+
+*/
+
+/*
+//problems 25
+//array reverse 
+const arrayReverse = [2,5,8,9,6,5,5,6];
+const arrayResult = arrayReverse.reverse();
+console.log(arrayResult)
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
