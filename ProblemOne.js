@@ -293,6 +293,21 @@ const itemResult = item.includes(2)
 console.log(itemResult)
 */
 
+/*
+problems 27
+duplicate remove this is
+
+const duplicate = [12,2,5,7,4,5,5,12];
+const res = [...new Set(duplicate)];
+console.log(res)
+
+*/
+
+
+
+
+
+
 
 
 
