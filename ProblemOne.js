@@ -304,6 +304,24 @@ console.log(res)
 */
 
 
+/*
+problems 28
+add marge
+
+
+const margeArray = [1,3,5,6,8];
+const margeArrayTwo = [1,2,2,3,5,6]
+const res = [...margeArray,...margeArrayTwo]
+console.log(res)
+
+const myFamily = ['Harun','Somi','Rashel','Rayhan','alkas mia','anwara begum'];
+
+const wifeFamily = ['Robel','taslima','sohel','tahomina','tamanna','towhida']
+
+const f = [...myFamily,...wifeFamily];
+console.log(f);
+
+*/
 
 
 
